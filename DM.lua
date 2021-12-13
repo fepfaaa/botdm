@@ -15,4 +15,4 @@ end
 end)
 
 
-client:run("Bot OTAyNTY0NTIwNjc1OTEzNzY5.YXgQtg.mC8jmeAPHwtNhYqPS5AA0fsugKg")
+client:run("Bot TOKEN")
